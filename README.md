@@ -1,1 +1,8 @@
-## Flavio Silva
+## Projeto Move.it
+
+#### O Move.it tem como objetivo auxiliar  seus usuários com a técnica de Pomodoro 
+
+<img src="C:\Users\flavio.silva\Desktop\moveit.png" style="zoom: 67%;" />
+
+##### O App vem recheado de desafios que visa ajudar seus usuários a praticarem atividades físicas durante cada intervalo, cada desafio concluído vale XP para acumular e subir de level... 
+
