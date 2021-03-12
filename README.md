@@ -4,6 +4,6 @@
 
 <img src="public\moveit.png" style="zoom: 67%;" />
 
-##### O App vem recheado de desafios que visa ajudar seus usuários a praticarem atividades físicas durante cada intervalo, cada desafio concluído vale XP para acumular e subir de level... 
+##### O App vem recheado de desafios que visam ajudar seus usuários a praticarem atividades físicas durante cada intervalo, cada desafio concluído vale XP para acumular e subir de level... 
 
 #### Deploy: https://moveit-flavicon.vercel.app/
