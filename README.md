@@ -9,7 +9,7 @@
             MOVE.IT
         </strong>
     </a> 
-    <img src="public/favicon.png"/>
+    <img src="public/favicon.png" style="width: 2rem;" />
 
 </h1>
 
