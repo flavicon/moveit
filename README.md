@@ -3,12 +3,14 @@
        href="https://moveit-flavicon.vercel.app" 
        target="_blank"
        style="text-decoration: none"
+       style="width: 2rem;"
     >
-       <img src="public/favicon.png" style="width: 2rem;"/>
+        <strong>
+            MOVE.IT
+        </strong>
     </a> 
-    <strong>
-        MOVE.IT
-    </strong>
+    <img src="public/favicon.png"/>
+
 </h1>
 
 <p align="center">
