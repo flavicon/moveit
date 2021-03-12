@@ -1,12 +1,13 @@
-<h1 align="center">    
+<h1 align="center">   
+    <a 
+       href="https://moveit-flavicon.vercel.app" 
+       target="_blank"
+       style="text-decoration: none"
+    >
+       <img src="public/favicon.png"/>
+    </a> 
     <strong>
-    	<a 
-           href="https://moveit-flavicon.vercel.app" 
-           target="_blank"
-           style="text-decoration: none"
-        >
-           <img src="public/favicon.png"/>
-        </a> 
+        MOVE.IT
     </strong>
 </h1>
 
