@@ -1,9 +1,6 @@
 <h1 align="center">   
 
-    <strong style="width: 2rem;">
-        MOVE.IT
-    </strong>
-    <img src="public/favicon.png" style="width: 2rem;" />
+    MOVE.IT
 
 </h1>
 
