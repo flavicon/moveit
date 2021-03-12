@@ -6,4 +6,4 @@
 
 ##### O App vem recheado de desafios que visa ajudar seus usuários a praticarem atividades físicas durante cada intervalo, cada desafio concluído vale XP para acumular e subir de level... 
 
-#### Depilou: https://moveit-flavicon.vercel.app/
+#### Deploy: https://moveit-flavicon.vercel.app/
