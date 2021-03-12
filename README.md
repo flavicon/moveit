@@ -4,7 +4,7 @@
        target="_blank"
        style="text-decoration: none"
     >
-       <img src="public/favicon.png"/>
+       <img src="public/favicon.png" style="width: 2rem;"/>
     </a> 
     <strong>
         MOVE.IT
