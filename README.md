@@ -1,4 +1,4 @@
-<h1 align="center" style="width: 2rem;">   
+<h1 align="center" style="width: 3rem;">   
 
     MOVE.IT
 
