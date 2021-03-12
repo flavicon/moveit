@@ -5,7 +5,7 @@
            target="_blank"
            style="text-decoration: none"
         >
-           <img src="public/favicon.png" style="width: 2rem; margin-top: -0.15rem"/> Move.it  
+           <img src="public/favicon.png" style="width: 2rem; margin-top: -0.15rem"/> <span style="width: 2rem;"> Move.it </span>
         </a> 
     </strong>
 </h1>
